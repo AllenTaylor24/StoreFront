@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
+using StoreFront.UI.MVC.Models;
 
 namespace StoreFront.UI.MVC.Controllers//Update namespace
 {
